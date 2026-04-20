@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+.vs/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.aps
+*.opendb
